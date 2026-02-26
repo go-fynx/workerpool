@@ -1,6 +1,18 @@
 # WorkerPool
 
-A production-ready Go worker pool library for managing concurrent task execution with controlled resource usage, timeout enforcement, panic recovery, and comprehensive metrics.
+
+<div align="center">
+**A production-ready Go worker pool library for managing concurrent task execution with controlled resource usage, timeout enforcement, panic recovery, and comprehensive metrics.**
+
+![workerpool](workerpool.png)
+
+
+[![Go Version](https://img.shields.io/badge/Go-1.21%2B-blue)](https://golang.org/dl/)
+[![Go Reference](https://pkg.go.dev/badge/github.com/go-fynx/workerpool.svg)](https://pkg.go.dev/github.com/go-fynx/workerpool)
+[![Go Report Card](https://goreportcard.com/badge/github.com/go-fynx/workerpool)](https://goreportcard.com/report/github.com/go-fynx/workerpool)
+
+</div>
+
 
 ## Features
 
