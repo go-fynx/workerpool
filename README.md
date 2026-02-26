@@ -2,6 +2,7 @@
 
 
 <div align="center">
+
 **A production-ready Go worker pool library for managing concurrent task execution with controlled resource usage, timeout enforcement, panic recovery, and comprehensive metrics.**
 
 ![workerpool](workerpool.png)
